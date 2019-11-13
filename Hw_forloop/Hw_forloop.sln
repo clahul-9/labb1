@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hw_forloop", "Hw_forloop\Hw_forloop.vcxproj", "{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Debug|x64.ActiveCfg = Debug|x64
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Debug|x64.Build.0 = Debug|x64
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Debug|x86.Build.0 = Debug|Win32
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Release|x64.ActiveCfg = Release|x64
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Release|x64.Build.0 = Release|x64
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Release|x86.ActiveCfg = Release|Win32
+		{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71373C59-AFC2-4EDA-B42A-CC50C601B5EC}
+	EndGlobalSection
+EndGlobal

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="helo-worldr_oginal.cpp">
+    <ClCompile Include="hw_loop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

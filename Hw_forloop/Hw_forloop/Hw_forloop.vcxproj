@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{6B02F864-3C6F-4A4C-97A1-6788AFFBAF6C}</ProjectGuid>
-    <RootNamespace>heloworldorginal</RootNamespace>
+    <ProjectGuid>{CFAEAB84-1D60-4734-BA7E-EBB10ED5EA23}</ProjectGuid>
+    <RootNamespace>Hwforloop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="helo-worldr_oginal.cpp" />
+    <ClCompile Include="hw_loop.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
