@@ -1,21 +1,13 @@
-#include <iostream>
-#include <array>
-#include <math.h>
+#include <stdio.h>
 
-using namespace std;
+int x;
+int main(){
+	printf("Hej! Please insert a number: \n");
+	scanf_s("%d", &x);
+	printf("Your number is %d \n", x);
+	
+	int q;
+	scanf_s("%d", &q);
 
-int main() 
-{
-	int n;
-	cin >> n;
-
-	int prim[] = { 2 };
-	while (size(prim)<=n)
-	{
-		switch (switch_on)
-		{
-		default:
-			break;
-		}
-	}
+	return 0;
 }
