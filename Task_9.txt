@@ -1,0 +1,17 @@
+9. Reflection
+
+	1. I learn basic c++ syntax, like cin, printf_s().
+	   
+	2. Learning a new computer langues, whitch was overcome
+	   mostly by a lot of googeling and looking att exampels.
+	   Also understanding git hub whitch has mostly been a 
+	   bunch of trail and error.
+
+ 
+	3. More exampel of the result of the code. (like how the peramids
+	   was shown in Task 8).
+
+
+
+
+Obs - prime nr v2 is the one that works not the other prime nr one.
